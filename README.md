@@ -1,13 +1,13 @@
-# Hi, I'm Jupy :D
+### Hi, I'm Jupy :D
 
 I'm a PhD student, working on Lifelong Reinforcement Learning. I like taking a go at random issues I think I can solve.
 
-## I love:
+#### I love:
 - Free and Open Source Software
 - Logic Puzzles
 - Rubik's Cubes
 
-## My specs:
+#### My specs:
 - Python Pro
 - Good at Git
 - Emacs Evangelist
