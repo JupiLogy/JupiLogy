@@ -1,6 +1,6 @@
 ### Hi, I'm Jupy :D
 
-I'm a PhD student, working on Lifelong Reinforcement Learning. I like taking a go at random issues I think I can solve.
+I just finished my PhD and I'm looking for a job in research! Please feel free to reach out if you have a project you need someone for.
 
 #### I love:
 - Free and Open Source Software
@@ -12,5 +12,10 @@ I'm a PhD student, working on Lifelong Reinforcement Learning. I like taking a g
 - Good at Git
 - Emacs Evangelist
 - LaTeX Lover
+
+#### Research strengths
+- RL
+- Statistics
+- Background in Computer Science and Maths
 
 *these may be exaggerated for the sake of alliteration*
